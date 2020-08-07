@@ -1,4 +1,6 @@
 <?php
+namespace lingfengmirui;
+
 class arraydb{
 	/*
 	* 主要针对sql查询所得结果，且结果含主键，将主键设为对应键值
