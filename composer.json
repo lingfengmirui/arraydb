@@ -1,0 +1,18 @@
+{
+    "name": "lingfengmirui/arraydb",
+    "description": "Third party message push",
+    "authors": [
+        {
+            "name": "Ruiqi Bai"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "lingfengmirui\\arraydb\\": "src/"
+        }
+    }
+}
